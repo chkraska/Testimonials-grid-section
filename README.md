@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/chkraska/Testimonials-grid-section)
-- Live Site URL: [Add live site URL here](https://chkraska.github.io/Testimonials-grid-section/)
+- Solution URL: [https://github.com/chkraska/Testimonials-grid-section]
+- Live Site URL: [https://chkraska.github.io/Testimonials-grid-section/]
 
 ## My process
 
